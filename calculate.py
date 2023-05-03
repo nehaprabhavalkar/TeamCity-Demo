@@ -8,4 +8,5 @@ if __name__ == "__main__":
     result = calculate_square(num)
     print("Result:",result)
     print("In Developer")
+    print("In Developer changes")
     
